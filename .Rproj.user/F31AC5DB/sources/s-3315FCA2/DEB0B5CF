@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571732096005.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DEB0B5CF",
+    "lastKnownWriteTime" : 7161113899023560047,
+    "last_content_update" : 1571732096005,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E13C1E8D",
+        "caption" : "RNAseqINProteomic",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=RNAseqINProteomic&cache_key=E13C1E8D",
+        "displayedObservations" : "291",
+        "environment" : "",
+        "expression" : "RNAseqINProteomic",
+        "object" : "RNAseqINProteomic",
+        "preview" : "0",
+        "totalObservations" : "291",
+        "variables" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

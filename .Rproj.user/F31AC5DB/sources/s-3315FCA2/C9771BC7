@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571731753650.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C9771BC7",
+    "lastKnownWriteTime" : 7737014183864132390,
+    "last_content_update" : 1571731753650,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B96F085C",
+        "caption" : "Proteomic_genes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Proteomic_genes&cache_key=B96F085C",
+        "displayedObservations" : 2723,
+        "environment" : "",
+        "expression" : "Proteomic_genes",
+        "object" : "Proteomic_genes",
+        "preview" : 0,
+        "totalObservations" : 2723,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

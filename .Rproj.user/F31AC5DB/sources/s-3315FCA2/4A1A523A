@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571442856611.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4A1A523A",
+    "lastKnownWriteTime" : 1571686445,
+    "last_content_update" : 1571686445,
+    "path" : "~/Desktop/RforProteomics_test/RforProteomics.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "162,0",
+        "scrollLine" : "139"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571731646292.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "32E01EAB",
+    "lastKnownWriteTime" : 4474654972,
+    "last_content_update" : 1571731646292,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4F0F0FD8",
+        "caption" : "RNAseq_genes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=RNAseq_genes&cache_key=4F0F0FD8",
+        "displayedObservations" : 2671,
+        "environment" : "",
+        "expression" : "RNAseq_genes",
+        "object" : "RNAseq_genes",
+        "preview" : 0,
+        "totalObservations" : 2671,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

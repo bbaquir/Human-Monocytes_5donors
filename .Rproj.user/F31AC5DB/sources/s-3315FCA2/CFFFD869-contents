@@ -1,0 +1,16 @@
+library(biomaRt)
+library(tidyverse)
+
+biomart_table <- getBM(
+  attributes = c("ensembl_gene_id", "hgnc_symbol", "entrezgene_id"),
+  mart = useMart("ensembl", dataset = "hsapiens_gene_ensembl")
+)
+biomart_table[biomart_table == ""] <- NA
+
+biomart_table <- biomart_table %>%
+  distinct(ensembl_gene_id, .keep_all = T)
+
+
+saveRDS(biomart_table, file = "biomart_table.rds"))
+
+readRDS("biomart_table.rds")

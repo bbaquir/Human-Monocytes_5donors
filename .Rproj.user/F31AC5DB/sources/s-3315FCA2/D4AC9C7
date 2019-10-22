@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571732830099.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D4AC9C7",
+    "lastKnownWriteTime" : 4474654972,
+    "last_content_update" : 1571732830099,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "68C8CF82",
+        "caption" : "SharedGenes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=SharedGenes&cache_key=68C8CF82",
+        "displayedObservations" : "291",
+        "environment" : "",
+        "expression" : "SharedGenes",
+        "object" : "SharedGenes",
+        "preview" : "0",
+        "totalObservations" : "291",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

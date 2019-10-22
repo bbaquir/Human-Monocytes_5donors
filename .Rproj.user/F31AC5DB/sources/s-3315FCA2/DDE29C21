@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571425302630.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DDE29C21",
+    "lastKnownWriteTime" : 1571431323,
+    "last_content_update" : 1571431323305,
+    "path" : "~/Desktop/Human-Monocytes_5donors/PCAandHeatmap_Proteomics.R",
+    "project_path" : "PCAandHeatmap_Proteomics.R",
+    "properties" : {
+        "cursorPosition" : "196,0",
+        "scrollLine" : "189"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
