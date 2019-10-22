@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571731102531.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CA454411",
+    "lastKnownWriteTime" : 1571730374,
+    "last_content_update" : 1571731102531,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BE93FEC2",
+        "caption" : "biomart_table",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=biomart_table&cache_key=BE93FEC2",
+        "displayedObservations" : 67087,
+        "environment" : "",
+        "expression" : "biomart_table",
+        "object" : "biomart_table",
+        "preview" : 0,
+        "totalObservations" : 67087,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

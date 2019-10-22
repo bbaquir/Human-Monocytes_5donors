@@ -1,0 +1,12 @@
+INFO [2019-10-22 01:45:36] $x
+INFO [2019-10-22 01:45:36] list(RNAseq_genes, Proteomic_genes)
+INFO [2019-10-22 01:45:36] 
+INFO [2019-10-22 01:45:36] $category.names
+INFO [2019-10-22 01:45:36] c("RNA-Seq", "Proteomics")
+INFO [2019-10-22 01:45:36] 
+INFO [2019-10-22 01:45:36] $filename
+INFO [2019-10-22 01:45:36] [1] "LPSLPSvsVehicleOmics_Venn.png"
+INFO [2019-10-22 01:45:36] 
+INFO [2019-10-22 01:45:36] $output
+INFO [2019-10-22 01:45:36] [1] TRUE
+INFO [2019-10-22 01:45:36] 

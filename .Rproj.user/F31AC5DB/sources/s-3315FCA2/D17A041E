@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571730723493.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2744634111",
+    "id" : "D17A041E",
+    "lastKnownWriteTime" : 1571734122,
+    "last_content_update" : 1571734122522,
+    "path" : "~/Desktop/Human-Monocytes_5donors/HumanMonocyte_TransandProt.R",
+    "project_path" : "HumanMonocyte_TransandProt.R",
+    "properties" : {
+        "cursorPosition" : "65,2",
+        "scrollLine" : "44"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

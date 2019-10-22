@@ -1,0 +1,13 @@
+INFO [2019-10-22 01:42:45] $x
+INFO [2019-10-22 01:42:45] list(RNAseq_genes, Proteomic_genes)
+INFO [2019-10-22 01:42:45] 
+INFO [2019-10-22 01:42:45] $category.names
+INFO [2019-10-22 01:42:45] c("RNA-Seq", "Proteomics")
+INFO [2019-10-22 01:42:45] 
+INFO [2019-10-22 01:42:45] $filename
+INFO [2019-10-22 01:42:45] [1] "LPSLPSvsVehicleOmics_Venn.png"
+INFO [2019-10-22 01:42:45] 
+INFO [2019-10-22 01:42:45] $output
+INFO [2019-10-22 01:42:45] [1] TRUE
+INFO [2019-10-22 01:42:45] 
+ERROR [2019-10-22 01:42:45] NAs in dataset

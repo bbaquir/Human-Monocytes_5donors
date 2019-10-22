@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571732675727.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E766FF7E",
+    "lastKnownWriteTime" : 7144524738350901087,
+    "last_content_update" : 1571732675727,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5F745420",
+        "caption" : "UniqueRNAseq_genes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=UniqueRNAseq_genes&cache_key=5F745420",
+        "displayedObservations" : 2381,
+        "environment" : "",
+        "expression" : "UniqueRNAseq_genes",
+        "object" : "UniqueRNAseq_genes",
+        "preview" : 0,
+        "totalObservations" : 2381,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
