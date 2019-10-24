@@ -202,3 +202,48 @@ LPSLPSvLPSVenn <- draw.pairwise.venn(area1 = 2220,area2 = 3585,cross.area = 385,
 ggsave(LPSLPSvLPSVenn, 
        file = "LPSLPSvsLPS_omics_Vennplot.svg", device = "svg")
   #paired ttest: t.test(x, y, paired = TRUE, alternative = "two.sided")
+
+
+
+
+
+###############################Arjun helped with generating adj pvalues
+##############################used bonferroni correction 
+#############################FDR and BH are the same correction 
+Proteomic_genes$pvalue_ttest1 %>% p.adjust(method = "BH")
+table(Proteomic_genes$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.05)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.05)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.10)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.01)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.05)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.010)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.10)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.05)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "fdr") <= 0.05)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "fdr") <= 0.10)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH") <= 0.10)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "bonferroni") <= 0.10)
+table(Proteomic$pvalue_ttest1 %>% p.adjust(method = "bonferroni") <= 0.05)
+Proteomic$pvalue_ttest1 %>% p.adjust(method = "bonferroni")
+Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH")
+Proteomic$adjusted <- Proteomic$pvalue_ttest1 %>% p.adjust(method = "BH")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
