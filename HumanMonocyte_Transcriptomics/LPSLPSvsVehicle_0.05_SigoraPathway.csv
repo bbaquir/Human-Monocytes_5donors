@@ -1,0 +1,33 @@
+"","pathwy.id","description","pvalues","Bonferroni","successes","PathwaySize","N","sample.size"
+"1","R-HSA-6798695","Neutrophil degranulation",2.647e-279,2.65e-276,1477.77,43684.78,603749.5,7391.36
+"2","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",2.788e-197,2.791e-194,415.56,5183.26,603749.5,7391.36
+"3","R-HSA-6783783","Interleukin-10 signaling",6.694e-144,6.701e-141,110.95,230.96,603749.5,7391.36
+"4","R-HSA-380108","Chemokine receptors bind chemokines",7.125e-102,7.132e-99,148.75,1104,603749.5,7391.36
+"5","R-HSA-418594","G alpha (i) signalling events",3.769e-82,3.773e-79,354.12,8753.83,603749.5,7391.36
+"6","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",2.014e-52,2.016e-49,429.04,15560.89,603749.5,7391.36
+"7","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",2.851e-49,2.854e-46,103.68,1301.05,603749.5,7391.36
+"8","R-HSA-114608","Platelet degranulation ",1.42e-45,1.421e-42,202.41,5129.96,603749.5,7391.36
+"9","R-HSA-5673001","RAF/MAP kinase cascade",8.436e-28,8.444e-25,151.56,4439.66,603749.5,7391.36
+"10","R-HSA-446652","Interleukin-1 family signaling",5.225e-27,5.23e-24,53.93,642.09,603749.5,7391.36
+"11","R-HSA-202733","Cell surface interactions at the vascular wall",4.039e-21,4.043e-18,97.81,2595.59,603749.5,7391.36
+"12","R-HSA-216083","Integrin cell surface interactions",1.008e-20,1.009e-17,53.5,880.27,603749.5,7391.36
+"13","R-HSA-1474244","Extracellular matrix organization",4.727e-20,4.732e-17,156.9,5626.13,603749.5,7391.36
+"14","R-HSA-449836","Other interleukin signaling",2.357e-18,2.359e-15,62.92,1335.85,603749.5,7391.36
+"15","R-HSA-418038","Nucleotide-like (purinergic) receptors",4.337e-17,4.341e-14,14.01,41.04,603749.5,7391.36
+"16","R-HSA-71240","Tryptophan catabolism",3.718e-16,3.722e-13,13,37.32,603749.5,7391.36
+"17","R-HSA-375276","Peptide ligand-binding receptors",4.434e-14,4.438e-11,275.24,13948.37,603749.5,7391.36
+"18","R-HSA-76002","Platelet activation, signaling and aggregation",5.684e-12,5.69e-09,78.5,2654.63,603749.5,7391.36
+"19","R-HSA-2173782","Binding and Uptake of Ligands by Scavenger Receptors",1.202e-11,1.203e-08,15.66,112.84,603749.5,7391.36
+"20","R-HSA-9020702","Interleukin-1 signaling",1.642e-11,1.644e-08,17.04,158.19,603749.5,7391.36
+"21","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",8.631e-11,8.64e-08,24.65,374.27,603749.5,7391.36
+"22","R-HSA-389948","PD-1 signaling",9.349e-10,9.358e-07,9.02,38.84,603749.5,7391.36
+"23","R-HSA-168898","Toll-like Receptor Cascades",9.483e-10,9.492e-07,19.94,260.65,603749.5,7391.36
+"24","R-HSA-5621480","Dectin-2 family",2.12e-09,2.122e-06,12.6,94.17,603749.5,7391.36
+"25","R-HSA-194840","Rho GTPase cycle",5.994e-09,6e-06,112.04,5086.31,603749.5,7391.36
+"26","R-HSA-417957","P2Y receptors",8.492e-09,8.5e-06,10,66,603749.5,7391.36
+"27","R-HSA-5675221","Negative regulation of MAPK pathway",4.204e-08,4.208e-05,12.78,122.35,603749.5,7391.36
+"28","R-HSA-1630316","Glycosaminoglycan metabolism",4.638e-08,4.643e-05,36.72,1034.15,603749.5,7391.36
+"29","R-HSA-5669034","TNFs bind their physiological receptors",8.135e-08,8.143e-05,19.5,343.92,603749.5,7391.36
+"30","R-HSA-6807004","Negative regulation of MET activity",2.512e-07,0.0002515,7.05,36.27,603749.5,7391.36
+"31","R-HSA-196854","Metabolism of vitamins and cofactors",3.479e-07,0.0003482,46.08,1633.46,603749.5,7391.36
+"32","R-HSA-1266695","Interleukin-7 signaling",5.238e-07,0.0005243,9.9,77.96,603749.5,7391.36

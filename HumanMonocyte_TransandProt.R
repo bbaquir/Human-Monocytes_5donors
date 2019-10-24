@@ -19,7 +19,7 @@ RNAseq <- RNAseq %>%
 biomart_table <- rename(biomart_table, Gene=ensembl_gene_id)
 
 RNAseq_genes <- inner_join(RNAseq, biomart_table, by = "Gene") 
-RNAseq_genes <- RNAseq_genes %>% filter(log2FoldChange>1.5 | log2FoldChange < -1.5) %>% dplyr::select (c(2:4))
+RNAseq_genes <- RNAseq_genes %>% filter(log2FoldChange>1.5 | log2FoldChange < -1.5, padj<0.05 ) %>% dplyr::select (c(2:4))
 RNAseq_genes <- subset(RNAseq_genes, select=c(3, 1, 2))
 RNAseq_genes <- rename(RNAseq_genes, Gene=hgnc_symbol)
 RNAseq_genes <- na.omit(RNAseq_genes) 
@@ -27,6 +27,16 @@ RNAseq_genes <- na.omit(RNAseq_genes)
 #counts of upregulated and downregulated genes from RNASeq genes
 sum(RNAseq_genes[, c("log2FoldChange")]>0)
 sum(RNAseq_genes[, c("log2FoldChange")]<0)
+
+###################################################Enriched pathways
+#sigora pathways from pvalues <0.05 & <0.01  proteins
+RNAseq_genes <- sigora(reaH, level = 4, queryList = RNAseq_genes$Gene) %>% 
+  pluck("summary_results") %>% 
+  filter(Bonferroni <=0.001)
+
+#switch to correct folder prior to saving file
+write.csv(RNAseq_genes, file= "LPSLPSvsVehicle_0.05_SigoraPathway.csv")
+####################################################
 
 #upload LPS.LPS v Vehicle proteomic list
 #select only pvalues <0.05

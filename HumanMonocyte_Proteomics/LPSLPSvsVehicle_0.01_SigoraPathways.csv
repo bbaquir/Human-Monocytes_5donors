@@ -1,0 +1,9 @@
+"","pathwy.id","description","pvalues","Bonferroni","successes","PathwaySize","N","sample.size"
+"1","R-HSA-6798695","Neutrophil degranulation",6.773e-218,6.78e-215,572.04,43684.78,603749.5,1722.24
+"2","R-HSA-72163","mRNA Splicing - Major Pathway",1.573e-103,1.575e-100,201.35,9848.32,603749.5,1722.24
+"3","R-HSA-8950505","Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",8.741e-20,8.75e-17,21.96,407.85,603749.5,1722.24
+"4","R-HSA-15869","Metabolism of nucleotides",6.688e-13,6.695e-10,24.59,1246.01,603749.5,1722.24
+"5","R-HSA-3299685","Detoxification of Reactive Oxygen Species",2.161e-08,2.163e-05,10.33,298.46,603749.5,1722.24
+"6","R-HSA-73817","Purine ribonucleoside monophosphate biosynthesis",4.19e-08,4.194e-05,6,66,603749.5,1722.24
+"7","R-HSA-611105","Respiratory electron transport",5.225e-08,5.23e-05,25,2381.18,603749.5,1722.24
+"8","R-HSA-2262752","Cellular responses to stress",2.107e-07,0.0002109,38.69,5133.31,603749.5,1722.24

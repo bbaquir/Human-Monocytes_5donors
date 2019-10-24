@@ -1,0 +1,56 @@
+"","pathwy.id","description","pvalues","Bonferroni","successes","PathwaySize","N","sample.size"
+"1","R-HSA-72163","mRNA Splicing - Major Pathway",0,0,2941.31,9848.32,603749.5,15500.07
+"2","R-HSA-72766","Translation",0,0,737.82,4549.38,603749.5,15500.07
+"3","R-HSA-6798695","Neutrophil degranulation",1.731e-238,1.733e-235,2303.2,43684.78,603749.5,15500.07
+"4","R-HSA-72203","Processing of Capped Intron-Containing Pre-mRNA",5.04e-233,5.045e-230,381.92,1689.5,603749.5,15500.07
+"5","R-HSA-159236","Transport of Mature mRNA derived from an Intron-Containing Transcript",2.165e-115,2.167e-112,195.52,911.09,603749.5,15500.07
+"6","R-HSA-379716","Cytosolic tRNA aminoacylation",1.666e-105,1.668e-102,112,257.25,603749.5,15500.07
+"7","R-HSA-6791226","Major pathway of rRNA processing in the nucleolus and cytosol",8.076e-96,8.084e-93,556.76,7997.93,603749.5,15500.07
+"8","R-HSA-1799339","SRP-dependent cotranslational protein targeting to membrane",9.816e-90,9.826e-87,105.35,285.12,603749.5,15500.07
+"9","R-HSA-611105","Respiratory electron transport",9.003e-88,9.012e-85,266.67,2381.18,603749.5,15500.07
+"10","R-HSA-168273","Influenza Viral RNA Transcription and Replication",5.894e-58,5.9e-55,88.64,362.17,603749.5,15500.07
+"11","R-HSA-6799198","Complex I biogenesis",1.257e-47,1.258e-44,153,1460.7,603749.5,15500.07
+"12","R-HSA-6807878","COPI-mediated anterograde transport",3.497e-47,3.5e-44,235.5,3103.12,603749.5,15500.07
+"13","R-HSA-162909","Host Interactions of HIV factors",1.084e-45,1.085e-42,68.97,274.81,603749.5,15500.07
+"14","R-HSA-5663205","Infectious disease",3.911e-43,3.915e-40,149.8,1515.79,603749.5,15500.07
+"15","R-HSA-168255","Influenza Life Cycle",3.13e-38,3.133e-35,47.39,143.9,603749.5,15500.07
+"16","R-HSA-6807505","RNA polymerase II transcribes snRNA genes",1.373e-33,1.374e-30,113.14,1136.34,603749.5,15500.07
+"17","R-HSA-3371453","Regulation of HSF1-mediated heat shock response",2.261e-31,2.263e-28,88.21,757.9,603749.5,15500.07
+"18","R-HSA-8868773","rRNA processing in the nucleus and cytosol",1.325e-29,1.326e-26,72.15,542.49,603749.5,15500.07
+"19","R-HSA-6811442","Intra-Golgi and retrograde Golgi-to-ER traffic",1.072e-28,1.073e-25,143.88,1916.95,603749.5,15500.07
+"20","R-HSA-1428517","The citric acid (TCA) cycle and respiratory electron transport",1.4e-27,1.401e-24,123.98,1537.04,603749.5,15500.07
+"21","R-HSA-73817","Purine ribonucleoside monophosphate biosynthesis",3.758e-27,3.762e-24,28,66,603749.5,15500.07
+"22","R-HSA-162599","Late Phase of HIV Life Cycle",5.395e-27,5.4e-24,61.8,428.12,603749.5,15500.07
+"23","R-HSA-70171","Glycolysis",3.415e-26,3.418e-23,76.97,682.01,603749.5,15500.07
+"24","R-HSA-15869","Metabolism of nucleotides",4.577e-26,4.582e-23,106.31,1246.01,603749.5,15500.07
+"25","R-HSA-162906","HIV Infection",1.962e-25,1.964e-22,45.04,239.29,603749.5,15500.07
+"26","R-HSA-6784531","tRNA processing in the nucleus",4.563e-24,4.568e-21,64.14,533.02,603749.5,15500.07
+"27","R-HSA-8950505","Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",1.529e-22,1.531e-19,54.49,407.85,603749.5,15500.07
+"28","R-HSA-6811438","Intra-Golgi traffic",5.315e-20,5.32e-17,48.39,367.48,603749.5,15500.07
+"29","R-HSA-162587","HIV Life Cycle",4.807e-18,4.812e-15,29.26,141.27,603749.5,15500.07
+"30","R-HSA-6803529","FGFR2 alternative splicing",4.902e-18,4.907e-15,28.55,129.5,603749.5,15500.07
+"31","R-HSA-204005","COPII-mediated vesicle transport",7.539e-18,7.547e-15,87.66,1177.56,603749.5,15500.07
+"32","R-HSA-71403","Citric acid cycle (TCA cycle)",3.172e-17,3.175e-14,34,213.57,603749.5,15500.07
+"33","R-HSA-6781823","Formation of TC-NER Pre-Incision Complex",5.864e-17,5.87e-14,25.76,109.35,603749.5,15500.07
+"34","R-HSA-446203","Asparagine N-linked glycosylation",1.693e-16,1.695e-13,227.44,4934.28,603749.5,15500.07
+"35","R-HSA-450531","Regulation of mRNA stability by proteins that bind AU-rich elements",3.838e-16,3.842e-13,20.21,67.56,603749.5,15500.07
+"36","R-HSA-162594","Early Phase of HIV Life Cycle",1.979e-15,1.981e-12,16.6,41.27,603749.5,15500.07
+"37","R-HSA-1660499","Synthesis of PIPs at the plasma membrane",5.782e-15,5.788e-12,63.6,786,603749.5,15500.07
+"38","R-HSA-163200","Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",5.794e-15,5.8e-12,68.74,892.07,603749.5,15500.07
+"39","R-HSA-1483255","PI Metabolism",5.291e-14,5.296e-11,55.02,657.87,603749.5,15500.07
+"40","R-HSA-8956320","Nucleobase biosynthesis",1.665e-13,1.667e-10,13,30,603749.5,15500.07
+"41","R-HSA-6811440","Retrograde transport at the Trans-Golgi-Network",5.193e-13,5.198e-10,48.82,553.3,603749.5,15500.07
+"42","R-HSA-199977","ER to Golgi Anterograde Transport",1.149e-12,1.15e-09,85.55,1404.7,603749.5,15500.07
+"43","R-HSA-379724","tRNA Aminoacylation",2.408e-12,2.41e-09,21,115.5,603749.5,15500.07
+"44","R-HSA-437239","Recycling pathway of L1",6.625e-12,6.632e-09,21.68,121.67,603749.5,15500.07
+"45","R-HSA-159231","Transport of Mature mRNA Derived from an Intronless Transcript",8.273e-12,8.281e-09,15.57,55.84,603749.5,15500.07
+"46","R-HSA-8876198","RAB GEFs exchange GTP for GDP on RABs",6.696e-11,6.703e-08,123,2548.91,603749.5,15500.07
+"47","R-HSA-2990846","SUMOylation",2.181e-09,2.183e-06,29.16,304.26,603749.5,15500.07
+"48","R-HSA-2467813","Separation of Sister Chromatids",2.48e-09,2.482e-06,63.81,1070.94,603749.5,15500.07
+"49","R-HSA-429958","mRNA decay by 3' to 5' exoribonuclease",8.564e-09,8.573e-06,11.41,43,603749.5,15500.07
+"50","R-HSA-68875","Mitotic Prophase",4.739e-08,4.744e-05,41.2,612.59,603749.5,15500.07
+"51","R-HSA-211000","Gene Silencing by RNA",8.101e-08,8.109e-05,26.82,296.69,603749.5,15500.07
+"52","R-HSA-164952","The role of Nef in HIV-1 replication and disease pathogenesis",9.701e-08,9.711e-05,13.08,78.18,603749.5,15500.07
+"53","R-HSA-432722","Golgi Associated Vesicle Biogenesis",1.543e-07,0.0001545,47.98,786.95,603749.5,15500.07
+"54","R-HSA-3299685","Detoxification of Reactive Oxygen Species",3.18e-07,0.0003183,25.23,298.46,603749.5,15500.07
+"55","R-HSA-6811434","COPI-dependent Golgi-to-ER retrograde traffic",7.929e-07,0.0007937,48.16,860,603749.5,15500.07
