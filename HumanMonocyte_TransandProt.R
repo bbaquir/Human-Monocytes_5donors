@@ -30,7 +30,7 @@ sum(RNAseq_genes[, c("log2FoldChange")]<0)
 
 ###################################################Enriched pathways
 #sigora pathways from pvalues <0.05 & <0.01  proteins
-RNAseq_genes <- sigora(reaH, level = 4, queryList = RNAseq_genes$Gene) %>% 
+RNAseq_pathways <- sigora(reaH, level = 4, queryList = RNAseq_genes$Gene) %>% 
   pluck("summary_results") %>% 
   filter(Bonferroni <=0.001)
 

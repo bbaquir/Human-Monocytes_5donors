@@ -1,10 +1,10 @@
-"","pathwy.id","description","pvalues","Bonferroni","successes","PathwaySize","N","sample.size"
-"1","R-HSA-6798695","Neutrophil degranulation",6.077e-40,6.083e-37,161.36,43684.78,603749.5,692.74
-"2","R-HSA-611105","Respiratory electron transport",2.355e-15,2.357e-12,24,2381.18,603749.5,692.74
-"3","R-HSA-72163","mRNA Splicing - Major Pathway",1.475e-11,1.476e-08,40.4,9848.32,603749.5,692.74
-"4","R-HSA-6799198","Complex I biogenesis",3.117e-10,3.12e-07,15,1460.7,603749.5,692.74
-"5","R-HSA-6791226","Major pathway of rRNA processing in the nucleolus and cytosol",6.185e-10,6.191e-07,33.51,7997.93,603749.5,692.74
-"6","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",6.467e-09,6.473e-06,13.22,1301.05,603749.5,692.74
-"7","R-HSA-6806834","Signaling by MET",1.35e-07,0.0001351,7.33,326.09,603749.5,692.74
-"8","R-HSA-1169091","Activation of NF-kappaB in B cells",1.86e-07,0.0001862,4.14,41.99,603749.5,692.74
-"9","R-HSA-8950505","Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",6.067e-07,0.0006073,7.9,407.85,603749.5,692.74
+,pathwy.id,description,pvalues,Bonferroni,successes,PathwaySize,N,sample.size
+1,R-HSA-6798695,Neutrophil degranulation,6.08E-40,6.08E-37,161.36,43684.78,603749.5,692.74
+2,R-HSA-611105,Respiratory electron transport,2.36E-15,2.36E-12,24,2381.18,603749.5,692.74
+3,R-HSA-72163,mRNA Splicing - Major Pathway,1.48E-11,1.48E-08,40.4,9848.32,603749.5,692.74
+4,R-HSA-6799198,Complex I biogenesis,3.12E-10,3.12E-07,15,1460.7,603749.5,692.74
+5,R-HSA-6791226,Major pathway of rRNA processing in the nucleolus and cytosol,6.19E-10,6.19E-07,33.51,7997.93,603749.5,692.74
+6,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,6.47E-09,6.47E-06,13.22,1301.05,603749.5,692.74
+7,R-HSA-6806834,Signaling by MET,1.35E-07,0.0001351,7.33,326.09,603749.5,692.74
+8,R-HSA-1169091,Activation of NF-kappaB in B cells,1.86E-07,0.0001862,4.14,41.99,603749.5,692.74
+9,R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,6.07E-07,0.0006073,7.9,407.85,603749.5,692.74
